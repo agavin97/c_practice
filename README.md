@@ -1,4 +1,4 @@
-# c_practice
+# C Practice Repository
 
 Miscellaneous C Coding (and maybe C++??)
 
